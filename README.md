@@ -5,3 +5,6 @@ Funny
 competitive
 
 stressed
+
+Hopeful
+
